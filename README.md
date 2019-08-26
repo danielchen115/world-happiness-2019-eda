@@ -21,4 +21,4 @@ __Healthy life expectancy:__ The extent to which Life expectancy contributed to 
 
 
 
-Check out the [Jupyter notebook file](world_happiness.ipynb) for some charts and insights into the report for 2019.
+Check out the [Jupyter notebook file](world_happiness.ipynb) for some charts and insights into the report for 2019. If Github is acting up and the file isn't rendering, try [this](https://nbviewer.jupyter.org/github/danielchen115/world-happiness-2019-eda/blob/master/world_happiness.ipynb) link instead.
